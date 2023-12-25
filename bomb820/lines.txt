@@ -1,0 +1,7 @@
+b explode_bomb
+b phase_2
+b read_six_numbers
+r ff.txt
+layout asm
+000Gcu{FqgupvGpvgt3pvqItqypWrNkhg0
+...EasyDoesntEnter1ntoGrownUpLife.

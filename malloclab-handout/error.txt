@@ -1,0 +1,7 @@
+Using default tracefiles in ./traces/
+Measuring performance with a cycle counter.
+Processor clock rate ~= 2000.0 MHz
+
+Testing mm malloc
+Reading tracefile: alaska.rep
+Checking mm_malloc for correctness, 
